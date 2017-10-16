@@ -1,7 +1,6 @@
 # purescript-birds
 
 [![Latest release](http://img.shields.io/github/release/awkure/purescript-birds.svg)](https://github.com/awkure/purescript-birds/releases)
-[![Build status](https://travis-ci.org/awkure/purescript-birds.svg?branch=master)](https://travis-ci.org/awkure/purescript-birds)
 
 A collection of bird combinators from Raymond Smullyan's book "To Mock a Mockingbird".
 
