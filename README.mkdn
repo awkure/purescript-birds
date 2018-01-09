@@ -15,6 +15,4 @@ bower install purescript-birds
 Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-birds).
 
 ## TODO
-+ fix types
 + tests
-
